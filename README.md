@@ -7,6 +7,8 @@
 />
 </a>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Neo1228&show_icons=true&theme=dracula)
+
 <!--
 **Neo1228/Neo1228** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
