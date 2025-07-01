@@ -47,7 +47,3 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:4987kk1379@gmail.com)
 [![velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white)](https://velog.io/@margie1a/posts)
-
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=Neo1228&color=brightgreen&style=for-the-badge)
