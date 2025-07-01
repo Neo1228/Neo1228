@@ -1,4 +1,5 @@
-an## Hi there 👋
+## Hi there 👋
+
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Neo1228&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/Neo1228"
@@ -6,6 +7,7 @@ an## Hi there 👋
   height="300"
 />
 </a>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Neo1228&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neo1228&layout=compact&theme=transparent)
 <!--
