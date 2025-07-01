@@ -1,5 +1,3 @@
-<div align="center">
-
 # CHOI MIN SOO 👋
 
 ### 🚀 I LOVE Spring & Java
@@ -41,20 +39,9 @@
 
 ## 📊 **GitHub Analytics**
 
-<div style="display: flex; justify-content: space-between;">
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Neo1228&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neo1228&layout=compact&theme=transparent&hide_border=true&langs_count=8)
-
-</div>
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Neo1228&theme=transparent&hide_border=true)
-
-## 🏆 **Activity & Achievements**
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Neo1228&theme=react-dark&hide_border=true&area=true)
-
 
 ## 📫 **Connect with Me**
 
@@ -63,11 +50,4 @@
 
 ---
 
-<div align="center">
-  
-
 ![Profile Views](https://komarev.com/ghpvc/?username=Neo1228&color=brightgreen&style=for-the-badge)
-
-</div>
-
-</div>
