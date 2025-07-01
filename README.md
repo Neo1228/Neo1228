@@ -65,7 +65,6 @@
 
 <div align="center">
   
-### if (실패) { 다시 도전; } else { 성공; }
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Neo1228&color=brightgreen&style=for-the-badge)
 
