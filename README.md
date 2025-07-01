@@ -22,7 +22,7 @@
 
 ### **Database**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![H2](https://img.shields.io/badge/H2-1021FF?style=for-the-badge&logo=h2&logoColor=white)
+![H2](https://img.shields.io/badge/H2-F05032?style=for-the-badge&logo=h2&logoColor=white)
 
 ### **DevOps & Cloud**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
