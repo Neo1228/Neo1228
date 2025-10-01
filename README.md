@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Minsu Choi
+# 👋 Hi, I'm Minsoo Choi
 
 [![Email](https://img.shields.io/badge/Email-4987kk@naver.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:4987kk@naver.com)
 [![Blog](https://img.shields.io/badge/Blog-velog-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@margie1a/posts)
