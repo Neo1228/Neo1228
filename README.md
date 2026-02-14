@@ -17,8 +17,6 @@
 
 ---
 
-## Engineering Philosophy
-
 ### "No Silver Bullet"
 I am a backend engineer who firmly believes that **there is no silver bullet** in software engineering. I don't seek magical, one-size-fits-all solutions. Instead, I embrace the inherent complexity of distributed systems and address it through disciplined architecture, automation, and deep observability.
 
