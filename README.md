@@ -29,6 +29,23 @@
 | 자동화 | 반복 작업과 실수를 줄이는 방법 |
 | 개발 도구 | 판단을 방해하지 않고 흐름을 돕는 도구 |
 
+## 오픈소스 활동
+
+<table>
+  <tr>
+    <td>
+      <strong>
+        <a href="https://github.com/swagger-api/swagger-core/pull/5052">swagger-core#5052</a>
+      </strong>
+      <br />
+      <sub>OpenAPI · Bean Validation · Schema</sub>
+      <br /><br />
+      Bean Validation constraint 처리 방식을 제안했습니다. 이후 해당 논의는 merged된
+      <a href="https://github.com/swagger-api/swagger-core/pull/5162">swagger-core#5162</a>에 참고되었습니다.
+    </td>
+  </tr>
+</table>
+
 ## 기록
 
 겪은 문제와 해결 과정을 블로그에 정리합니다.
