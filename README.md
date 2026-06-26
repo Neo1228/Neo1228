@@ -4,8 +4,10 @@
 
 <p>
   <a href="https://my-repository-seven-navy.vercel.app/">
-    <img src="https://img.shields.io/badge/기술%20블로그-111111?style=flat-square&logo=vercel&logoColor=white" alt="기술 블로그" />
+    <img src="assets/blog-mark.svg" width="28" height="28" alt="블로그 로고" />
   </a>
+  &nbsp;
+  <a href="https://my-repository-seven-navy.vercel.app/"><strong>기술 블로그</strong></a>
 </p>
 
 ## 소개
