@@ -1,23 +1,34 @@
-<div align="left">
+# Neo1228
 
-![header](https://capsule-render.vercel.app/api?type=transparent&color=000000&height=120&section=header&text=Minsoo%20Choi&fontSize=70&animation=fadeIn&fontAlignY=55)
+I build reliable systems, automation tools, and technical notes around practical engineering.
 
-<br/>
+## About
 
-<a href="mailto:4987kk@naver.com">
-  <img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="https://my-repository-seven-navy.vercel.app/">
-  <img src="https://img.shields.io/badge/TECH_BLOG-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Tech Blog" />
-</a>
+I care about systems that are easy to trace, recover, and operate.
 
-</div>
+My work usually sits around service logic, debugging workflows, automation, and the small decisions that make software easier to maintain.
 
-<br/>
+## Focus
 
----
+- Reliable service systems
+- Observability and debugging
+- Automation workflows
+- Distributed system behavior
+- Practical engineering notes
 
-### "No Silver Bullet"
-I am a backend engineer who firmly believes that **there is no silver bullet** in software engineering. I don't seek magical, one-size-fits-all solutions. Instead, I embrace the inherent complexity of distributed systems and address it through disciplined architecture, automation, and deep observability.
+## Selected Work
 
-My goal is to build resilient systems that don't just work, but remain maintainable and scalable under pressure. I prioritize understanding the "why" behind every technical decision, ensuring that every trade-off is calculated and every solution is grounded in engineering principles.
+I keep this page intentionally small. The pinned repositories below are the main place to see selected projects and experiments.
+
+- [Tech Blog](https://my-repository-seven-navy.vercel.app/)
+- Selected repositories
+- Engineering notes
+
+## Writing
+
+I write about engineering decisions, failure cases, debugging notes, and details that are easy to miss when systems grow.
+
+## Links
+
+- [Tech Blog](https://my-repository-seven-navy.vercel.app/)
+- [GitHub](https://github.com/Neo1228)
