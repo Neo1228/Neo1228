@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Quiet Index mark">
-  <rect width="512" height="512" rx="96" fill="#050505"/>
-  <circle cx="206" cy="256" r="88" fill="none" stroke="#f7f7f7" stroke-width="30"/>
-  <path d="M263 315 L322 374" fill="none" stroke="#f7f7f7" stroke-width="30" stroke-linecap="square"/>
-  <path d="M338 159 H426 M382 159 V353 M338 353 H426" fill="none" stroke="#f7f7f7" stroke-width="30" stroke-linecap="square" stroke-linejoin="miter"/>
-</svg>
