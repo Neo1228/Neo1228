@@ -1,34 +1,27 @@
 # Neo1228
 
-I build reliable systems, automation tools, and technical notes around practical engineering.
+서비스의 흐름, 장애의 원인, 운영의 흔적을 놓치지 않으려는 개발자입니다.
 
-## About
+## 소개
 
-I care about systems that are easy to trace, recover, and operate.
+기능이 단순히 동작하는 것보다, 문제가 생겼을 때 원인을 따라갈 수 있는 구조에 더 관심이 많습니다.
 
-My work usually sits around service logic, debugging workflows, automation, and the small decisions that make software easier to maintain.
+요청이 어디에서 시작되고, 어떤 기준으로 처리되며, 실패했을 때 어떤 기록이 남는지를 중요하게 봅니다. 복잡한 문제일수록 먼저 흐름을 나누고, 확인 가능한 근거를 남기는 방식으로 접근하려고 합니다.
 
-## Focus
+## 관심사
 
-- Reliable service systems
-- Observability and debugging
-- Automation workflows
-- Distributed system behavior
-- Practical engineering notes
+- 서비스 로직과 데이터 흐름
+- 장애 분석과 재처리 구조
+- 로그, 지표, 추적을 통한 운영 가시성
+- 반복 작업을 줄이는 자동화
+- 개발 흐름을 돕는 AI 도구 활용
 
-## Selected Work
+## 기록
 
-I keep this page intentionally small. The pinned repositories below are the main place to see selected projects and experiments.
+겪었던 문제와 해결 과정을 블로그에 남깁니다.
 
-- [Tech Blog](https://my-repository-seven-navy.vercel.app/)
-- Selected repositories
-- Engineering notes
+주로 원인 추적, 설계 판단, 운영 중 드러난 차이, 나중에 다시 봐야 할 결정들을 정리합니다.
 
-## Writing
+## 링크
 
-I write about engineering decisions, failure cases, debugging notes, and details that are easy to miss when systems grow.
-
-## Links
-
-- [Tech Blog](https://my-repository-seven-navy.vercel.app/)
-- [GitHub](https://github.com/Neo1228)
+- [기술 블로그](https://my-repository-seven-navy.vercel.app/)
