@@ -2,11 +2,6 @@
 
 서비스가 잘 돌아가는 것만큼, 문제가 생겼을 때 원인을 끝까지 따라갈 수 있는 구조에 관심이 있습니다.
 
-<p>
-  <a href="https://my-repository-seven-navy.vercel.app/">
-    <img src="assets/blog-link.svg" width="148" height="34" alt="기술 블로그" />
-  </a>
-</p>
 
 ## 소개
 
@@ -40,4 +35,4 @@
 
 원인 추적, 설계 판단, 운영 중 드러난 차이, 다시 확인해야 할 결정을 주로 남깁니다.
 
-→ [기술 블로그 바로가기](https://my-repository-seven-navy.vercel.app/)
+[기술 블로그 바로가기](https://my-repository-seven-navy.vercel.app/)
