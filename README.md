@@ -33,7 +33,19 @@
 
 <table>
   <tr>
-    <td>
+    <td width="50%">
+      <strong>
+        <a href="https://github.com/Neo1228/spring-boot-starter-swagger-mcp">Swagger MCP Bridge</a>
+      </strong>
+      <br />
+      <sub>Spring Boot · SpringDoc OpenAPI · MCP</sub>
+      <br /><br />
+      SpringDoc OpenAPI 기반 Spring Boot API를 MCP 도구로 노출하는 starter를 만들었습니다.
+      <br /><br />
+      <a href="https://github.com/spring-ai-community/awesome-spring-ai/pull/26">awesome-spring-ai</a> ·
+      <a href="https://github.com/punkpeye/awesome-mcp-servers/pull/2059">awesome-mcp-servers</a>
+    </td>
+    <td width="50%">
       <strong>
         <a href="https://github.com/swagger-api/swagger-core/pull/5052">swagger-core#5052</a>
       </strong>
